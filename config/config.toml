@@ -1,0 +1,35 @@
+baseURL = "http://ignu.me/"
+title = "Leonard Smith" # Title of your site
+theme = "zzo" # Name of Zzo theme folder in `themes/`.
+
+defaultContentLanguage = "en" # Default language to use (if you setup multilingual)
+defaultContentLanguageInSubdir = false # baseURL/en/, baseURL/kr/ ...
+
+summaryLength = 70 # The length of a post description on a list page.
+buildFuture = false # if true, we can use future date for talks page
+
+copyright = "©{year}, All Rights Reserved" # copyright symbol: $copy; current year: {year}
+timeout = 10000
+enableEmoji = true
+paginate = 10 # Number of items per page in paginated lists.
+rssLimit = 100 # lol optimism 
+
+enableGitIfno = false
+
+[outputs]
+  home = ["HTML", "RSS", "SearchIndex"]
+  section = ["HTML", "RSS", "SearchIndex"]
+  taxonomyTerm = ["HTML", "RSS", "SearchIndex"]
+  taxonomy = ["HTML", "RSS", "SearchIndex"]
+
+[outputFormats]
+  [outputFormats.SearchIndex]
+    mediaType = "application/json"
+    baseName = "index"
+    isPlainText = true
+    notAlternative = true
+    
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
