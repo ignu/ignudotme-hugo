@@ -6,6 +6,7 @@ enableToc: false
 enableTocContent: false
 tags:
   - rails
+  - ruby
   - tdd
   - podcast
 image: images/ti-share-card.png

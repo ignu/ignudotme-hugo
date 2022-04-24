@@ -6,6 +6,9 @@ draft: false
 enableToc: false
 enableTocContent: false
 tags:
+  - talks
+  - javascript
+  - git
 ---
 
 Thanks for everyone who came to my sessions at <a href="http://madexpo.us/">MADExpo</a>!

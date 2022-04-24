@@ -6,6 +6,7 @@ path: "/7-talks-good-enough-to-watch-twice"
 subtitle: "A few talk worth watching over and over."
 tags:
   - conferences
+  - agile
 ---
 Glenn Vanderberg: [Real Software Engineering](http://vanderburg.org/blog/series/real-software-engineering/)
 

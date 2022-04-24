@@ -5,7 +5,7 @@ enableToc: false
 enableTocContent: false
 tags:
   - jquery
-  - csharp
+  - javascript
 ---
 
 Here’s a simple way to avoid postbacks in your site, still be SEO friendly and degrade gracefully to JavaScript free browsers (and handle middle clicks and copy&paste) in ASP.NET MVC using jQuery.

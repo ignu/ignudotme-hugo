@@ -9,6 +9,7 @@ enableToc: true
 enableTocContent: false
 tags: 
 - ruby
+- rails
 ---
 
 I've been in the Microsoft ecosystem nearly a decade. I had heard that Ruby was more productive for years. Each time I rolled my eyes, confident these developers lacked my  [Resharper/Automocking/Generics/Fluent API Magic](http://geekswithblogs.net/ignu/archive/2009/05/31/automocking-and-bdd-style-tests-with-nunit.aspx) . Then I developed in Rails at  [GiveCamp](http://givecamp.org/)  last year and dear god I was nearly as productive in this framework I barely knew as I was in ASP.NET MVC, a platform I knew inside out. What was I doing with my life?

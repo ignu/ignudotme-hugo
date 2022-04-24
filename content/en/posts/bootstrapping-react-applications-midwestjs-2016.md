@@ -6,6 +6,9 @@ draft: false
 enableToc: false
 enableTocContent: false
 tags:
+  - react
+  - javascript
+  - talks
 ---
 
 # [Slides](https://raw.githubusercontent.com/ignu/2016/master/bootstrapping-react-applications/slides.pdf)

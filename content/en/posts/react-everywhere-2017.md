@@ -9,6 +9,7 @@ enableTocContent: false
 tags: 
 - talks
 - react
+- javascript
 image: images/posts/react-everywhere.jpg
 ---
 

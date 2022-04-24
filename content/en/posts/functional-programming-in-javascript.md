@@ -7,6 +7,7 @@ enableToc: false
 enableTocContent: false
 tags:
   - talks
+  - javascript
 image: images/posts/ignu-liberty-js.png
 ---
 

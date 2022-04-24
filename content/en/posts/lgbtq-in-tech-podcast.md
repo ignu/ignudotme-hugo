@@ -10,5 +10,6 @@ tags:
 image: images/posts/lgbtqfm.jpg
 ---
 
-# [Espiode 0: What is this?](http://lgbtq.fm/0/)
+### [Espiode 0: What is this?](http://lgbtq.fm/0/)
 
+![LOGO](/images/posts/lgbtqfm.jpg)
