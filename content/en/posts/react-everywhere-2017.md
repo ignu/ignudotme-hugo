@@ -10,7 +10,7 @@ authorEmoji: 👺
 tags: 
 - talks
 - react
-image: images/posts/react-everywhere.png
+image: images/posts/react-everywhere.jpg
 ---
 
 Thanks for everyone who came my React workshop at [CodeMash](http://codemash.org)! Please leave feedback in the [EventsXD](https://eventsxd.com/download) App.
