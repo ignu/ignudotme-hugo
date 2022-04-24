@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leonard Smith</title>
+    <link>http://ignu.me/</link>
+    <description>Recent content on Leonard Smith</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Aug 2011 11:20:10 +0000</lastBuildDate><atom:link href="http://ignu.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Seven Software Presentations Good Enough to watch twice</title>
+      <link>http://ignu.me/7-software-presentations/</link>
+      <pubDate>Mon, 01 Aug 2011 11:20:10 +0000</pubDate>
+      
+      <guid>http://ignu.me/7-software-presentations/</guid>
+      <description>Glenn Vanderberg: Real Software Engineering
+tl;dr: (Spoiler) Software Engineering as a concept is a joke unless you&amp;rsquo;re practicing Agile disciplines.
+(This is the only software talk I&amp;rsquo;ve ever seen get a standing ovation)
+Uncle Bob Martin: The Renaissance of Craftmanship
+tl;dr: Be less terrible.
+Jim Weirich: The Grand Unified Theory of Software Design
+tl;dr: Connascence is a word and it&amp;rsquo;s hard to fathom all the ways in which our code is coupled.</description>
+    </item>
+    
+    <item>
+      <title>Seven Software Presentations Good Enough to watch twice</title>
+      <link>http://ignu.me/posts/7-software-presentations/</link>
+      <pubDate>Mon, 01 Aug 2011 11:20:10 +0000</pubDate>
+      
+      <guid>http://ignu.me/posts/7-software-presentations/</guid>
+      <description>Glenn Vanderberg: Real Software Engineering
+tl;dr: (Spoiler) Software Engineering as a concept is a joke unless you&amp;rsquo;re practicing Agile disciplines.
+(This is the only software talk I&amp;rsquo;ve ever seen get a standing ovation)
+Uncle Bob Martin: The Renaissance of Craftmanship
+tl;dr: Be less terrible.
+Jim Weirich: The Grand Unified Theory of Software Design
+tl;dr: Connascence is a word and it&amp;rsquo;s hard to fathom all the ways in which our code is coupled.</description>
+    </item>
+    
+  </channel>
+</rss>
