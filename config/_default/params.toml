@@ -62,7 +62,7 @@ email = "len@barrison.com"
 whoami = "Software Forger/Forager"
 bioImageUrl = "" # image url like "http//..." or "images/anyfoldername/mybioimage.jpg" If not set, we find a avatar image in root/static/images/whoami/avatar.(png|jpg|svg)
 useGravatar = true # we use this option highest priority
-location = "Pasadena, CA"
+location = "California"
 # organization = "None"
 link = "https://ignu.me"
 
@@ -71,11 +71,11 @@ enableBio = true # in home page sidebar
 enableBioImage = true # in home page sidebar
 enableSidebar = true # Set to false to create the full width of the content.
 enableSidebarTags = true # if you want to use tags.
-enableSidebarSeries = true
+enableSidebarSeries = false
 enableSidebarCategories = false
 enableHomeSidebarTitles = true
 enableListSidebarTitles = true
-enableToc = true # single page table of contents, you can replace this param to toc(toc = true)
+enableToc = false # single page table of contents, you can replace this param to toc(toc = true)
 hideToc = false # Hide or Show toc
 tocPosition = "inner" # inner, outer
 tocFolding = false
@@ -160,7 +160,7 @@ commento = false
   youtube = ""
   medium = ""
   tumblr = ""
-  linkedin = ""
+  linkedin = "https://www.linkedin.com/in/leonardhsmith/"
   pinterest = ""
   stack-exchange = ""
   telegram = ""

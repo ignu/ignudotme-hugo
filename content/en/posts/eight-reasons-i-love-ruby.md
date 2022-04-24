@@ -1,7 +1,7 @@
 
 ---
 title: "8 Reasons I love Ruby"
-date: 2009-01-14T12:00:06+09:00
+date: 2009-08-14T12:00:06+09:00
 description: "My skepticism of Ruby's productivity claims completely shattered"
 draft: false
 hideToc: true

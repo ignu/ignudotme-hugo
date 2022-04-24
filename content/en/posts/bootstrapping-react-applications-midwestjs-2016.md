@@ -1,17 +1,14 @@
 ---
 title: "Bootstrapping React Applications"
 date: 2016-08-15T12:00:06+09:00
-description: "Slides and notes from my talk at MidwestJS 2016, Bootstrapping React Applications"
+description: "Slides and notes from my talk at MidwestJS 2016, Bootstrapping React Applications - where I discuss how to start a new project without getting bogged down in analysis paralysis"
 draft: false
 enableToc: false
 enableTocContent: false
 tags:
 ---
 
-
-## [Len Smith](https://twitter.com/ignu)
-
-[Slides](https://raw.githubusercontent.com/ignu/2016/master/bootstrapping-react-applications/slides.pdf)
+# [Slides](https://raw.githubusercontent.com/ignu/2016/master/bootstrapping-react-applications/slides.pdf)
 
 
 ![https://dl.dropboxusercontent.com/s/e64mt73ppl05j0f/Screenshot 2016-08-05 20.22.42.png?dl=0](https://dl.dropboxusercontent.com/s/e64mt73ppl05j0f/Screenshot%202016-08-05%2020.22.42.png?dl=0)

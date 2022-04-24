@@ -1,6 +1,6 @@
 ---
 title: "Shell 101: Keeping Dotfiles in Source Control"
-date: 2019-12-16T19:45:20+09:00
+date: 2021-12-16T19:45:20+09:00
 description: Make your shell customizations both seamless and permanent.
 hideToc: false
 enableToc: true

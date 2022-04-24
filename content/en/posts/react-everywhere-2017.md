@@ -1,12 +1,11 @@
 ---
 title: "React Everywhere"
 date: 2017-01-14T12:00:06+09:00
-description: "Slides and code from my workshop React Everywhere at CodeMash"
+description: "Slides and code from my workshop React Everywhere at CodeMash 2017 where I had attendees build a conference schedule using both React and React Native, while sharing the redux store from both."
 draft: false
 hideToc: true
 enableToc: true
 enableTocContent: false
-authorEmoji: 👺
 tags: 
 - talks
 - react

@@ -1,7 +1,7 @@
 ---
 title: Why Rails is awesome/terrible
 date: 2014-07-30T12:10:30.229Z
-description: "Rails has solved so many problems, it's often not programming but gem configuration and debugging"
+description: "Rails has solved so many problems, that often most developer's day-to-day isn't really 'programming' but gem configuration and debugging."
 enableToc: false
 enableTocContent: false
 tags:
@@ -21,7 +21,7 @@ Pagination? Add a gem. Configure.
 
 Comments? Add a gem. Configure.
 
-[image:F374AE03-BA91-4D6B-842F-1CFFC898DE3E-36973-000001D52C46C0F2/8b5kNhQ.gif]
+![https://i.imgur.com/cLzsW7k.gif](https://i.imgur.com/cLzsW7k.gif)
 
 This is actually great. I don’t want to waste time reinventing the wheel.
 
