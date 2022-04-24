@@ -12,9 +12,9 @@ notAllowedTypesInHome = ["contact", "talks", "about", "showcase"] # not allowed 
 notAllowedTypesInHomeSidebar = ["about", "archive", "showcase"] # not allowed page types in home page sidebar(recent post titles).
 notAllowedTypesInArchive = ["about", "talks", "showcase"] # not allowed page types in archive page
 notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "showcase", "publication", "presentation", "resume", "gallery"]
-enablePinnedPosts = true # show pinned posts first in the main view
+enablePinnedPosts = false # show pinned posts first in the main view
 
-viewportSize = "normal" # widest, wider, wide, normal, narrow
+viewportSize = "wider" # widest, wider, wide, normal, narrow
 enableUiAnimation = true
 hideSingleContentsWhenJSDisabled = false
 minItemsToShowInTagCloud = 1 # Minimum items to show in tag cloud
@@ -59,11 +59,11 @@ talksGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
 # whoami: usage - home page sidebar, single page bottom of post. all values can be empty
 myname = "Leonard Smith"
 email = "len@barrison.com"
-whoami = "Software Developer"
+whoami = "Software Forger/Forager"
 bioImageUrl = "" # image url like "http//..." or "images/anyfoldername/mybioimage.jpg" If not set, we find a avatar image in root/static/images/whoami/avatar.(png|jpg|svg)
 useGravatar = true # we use this option highest priority
 location = "Pasadena, CA"
-organization = "None"
+# organization = "None"
 link = "https://ignu.me"
 
 # sidebar
@@ -72,7 +72,7 @@ enableBioImage = true # in home page sidebar
 enableSidebar = true # Set to false to create the full width of the content.
 enableSidebarTags = true # if you want to use tags.
 enableSidebarSeries = true
-enableSidebarCategories = true
+enableSidebarCategories = false
 enableHomeSidebarTitles = true
 enableListSidebarTitles = true
 enableToc = true # single page table of contents, you can replace this param to toc(toc = true)
@@ -80,7 +80,7 @@ hideToc = false # Hide or Show toc
 tocPosition = "inner" # inner, outer
 tocFolding = false
 enableTocSwitch = true # single page table of contents visibility switch
-itemsPerCategory = 5 # maximum number of posts shown in the sidebar.
+itemsPerCategory = 6 # maximum number of posts shown in the sidebar.
 sidebarPosition = "right" # bio, profile component layout position
 tocLevels = ["h2", "h3", "h4"] # minimum h2, maximum h4 in your article
 enableSidebarPostsByOrder = false # another lists in the sidebar
@@ -151,7 +151,7 @@ commento = false
 [socialOptions] # if set, social icons will show up.
   email = "mailto:len+fromblog@barrison.com"
   phone = ""
-  facebook = "https://facebook.com/len.smith"
+  facebook = ""
   twitter = "https://twitter.com/ignu"
   github = "https://github.com/ignu"
   stack-overflow = ""

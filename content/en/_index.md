@@ -25,16 +25,16 @@ header:
     paddingY: 0
     align: center
     title:
-      - HUGO
+      - Leonard Smith
     subtitle:
-      - The world’s fastest framework for building websites
+      - This is taking longer than we thought
     titleColor: 
     titleShadow: true
-    titleFontSize: 44
+    titleFontSize: 32
     subtitleColor: 
     subtitleCursive: true
     subtitleFontSize: 18
-    spaceBetweenTitleSubtitle: 16
+    spaceBetweenTitleSubtitle: 8
   
   - type: img
     imageSrc: images/header/background.jpg
