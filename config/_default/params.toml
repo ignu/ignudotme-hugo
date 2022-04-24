@@ -73,7 +73,7 @@ enableSidebar = true # Set to false to create the full width of the content.
 enableSidebarTags = true # if you want to use tags.
 enableSidebarSeries = false
 enableSidebarCategories = false
-enableHomeSidebarTitles = true
+enableHomeSidebarTitles = false
 enableListSidebarTitles = true
 enableToc = false # single page table of contents, you can replace this param to toc(toc = true)
 hideToc = false # Hide or Show toc

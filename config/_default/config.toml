@@ -8,7 +8,7 @@ defaultContentLanguageInSubdir = false # baseURL/en/, baseURL/kr/ ...
 summaryLength = 70 # The length of a post description on a list page.
 buildFuture = false # if true, we can use future date for talks page
 
-copyright = "©{year}, All Rights Reserved" # copyright symbol: $copy; current year: {year}
+copyright = "[@ignu](http://twitter.com/ignu/)" # copyright symbol: $copy; current year: {year}
 timeout = 10000
 enableEmoji = true
 paginate = 10 # Number of items per page in paginated lists.
