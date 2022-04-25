@@ -1,5 +1,5 @@
 ---
-title: Why Rails is awesome/terrible
+title: The blessing and curse of Ruby on Rails
 date: 2014-07-30T12:10:30.229Z
 description: "Rails has solved so many problems, that often most developer's day-to-day isn't really 'programming' but gem configuration and debugging."
 enableToc: false
