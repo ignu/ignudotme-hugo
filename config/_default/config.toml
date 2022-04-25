@@ -1,4 +1,4 @@
-baseURL = "http://ignu.me/"
+baseURL = "http://www.ignu.me/"
 title = "Leonard Smith" # Title of your site
 theme = "zzo" # Name of Zzo theme folder in `themes/`.
 
